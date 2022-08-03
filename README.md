@@ -10,6 +10,8 @@ This File Is Obfuscated So People Who Have A Brain Dont Check The Code.
 
 Make Sure You Rename The File To Your Choice.
 
+Theres Also An Exe File Version Incase You Want To Use That Instead.
+
 -----
 ## DISCORD:
 

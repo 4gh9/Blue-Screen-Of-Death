@@ -5,7 +5,9 @@ Blue Screen Of Death Batch Is A Harmless Prank File.
 ## ABOUT
 
 This File Is Harmless And Doesnt Harm Your Computer In Anyway.
+
 This File Is Obfuscated So People Who Have A Brain Dont Check The Code.
+
 Make Sure You Rename The File To Your Choice.
 
 -----

@@ -13,6 +13,11 @@ Make Sure You Rename The File To Your Choice.
 Theres Also An Exe File Version Incase You Want To Use That Instead.
 
 -----
+## VIRUSTOTAL
+
+https://www.virustotal.com/gui/url/7153976ead24615648667afc92e6c4f559c6158ea5eebbd22735c20c64cafc22?nocache=1
+
+-----
 ## DISCORD:
 
 <img src="https://discord.c99.nl/widget/theme-1/909623557670187090.png"/></a>
